@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  
+}
+
+
+
+
+input[type="text"]{
+    width:80%;
+    height:35px;
+}
+input[type="text"]:focus{
+outline: none;
+
+}
+
+button{
+    width: 70%;
+    height: 35px;
+    border: none;
+    background-color: blue;
+    color: white;
+    
+    
+}
+button:focus{
+    outline: none;
+}
+.a{
+    width: 50px;
+}

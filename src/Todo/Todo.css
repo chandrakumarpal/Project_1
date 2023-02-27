@@ -1,0 +1,46 @@
+.main{
+    padding: 70px;
+    background-color: aqua;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+
+
+}
+
+.Todo{
+    width:70%;
+    height: 500px;
+    background-color: rgb(57, 157, 124);
+    
+}
+.head{
+    font-size: 35px;
+    margin-bottom: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+input{
+  margin-top: 100px;
+    width: 250px;
+    position: relative ;
+    top: 0;
+    right: 10px;
+}
+input:hover{
+    outline: none;
+}
+button{
+    margin-left: 15px;
+    background-color:blue;
+    color: white;
+    outline:none;
+}
+.view{
+    margin-top: 15px;
+}
+.butt{
+   margin-left: 10px;
+   height: 30px;
+   width: 40px;
+}
